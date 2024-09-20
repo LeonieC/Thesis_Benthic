@@ -1,0 +1,334 @@
+﻿Label,OTUs,MajorCategory,MorphoFunctionalGroup
+acaenc,Acanthastrea_encrusting,Hard coral,Hard coral_encrusting
+acamas,Acanthastrea_massive,Hard coral,Hard coral_massive
+acoenc,Acrozoanthus_encrusting,Zoanthid,Zoanthid_encrusting
+acomas,Acrozoanthus_massive,Zoanthid,Zoanthid_massive
+acrarb,Acropora_arborescent,Hard coral,Hard coral_arborescent
+acrbus,Acropora_bushy,Hard coral,Hard coral_bushy
+acrenc,Acropora_encrusting,Hard coral,Hard coral_encrusting
+acrtab,Acropora_tabular,Hard coral,Hard coral_tabular
+actfan,Acanthogorgia_fan,Gorgonian,Gorgonian_fan
+alcarb,Alcyonacea_arborescent,Gorgonian,Gorgonian_arborescent
+alcbus,Alcyonacea_bushy,Gorgonian,Gorgonian_bushy
+alcfan,Alcyonacea_fan,Gorgonian,Gorgonian_fan
+algunk1,Algae_unknown_sp1,Macroalgae,Macroalgae_unknown
+algunk2,Algae_unknown_sp2,Macroalgae,Macroalgae_unknown
+alvenc,Alveopora_encrusting,Hard coral,Hard coral_encrusting
+alvmas,Alveopora_massive,Hard coral,Hard coral_massive
+ampart,Amphiroa_articulated_calcareous,Macroalgae,Macroalgae_articulated_calcareous
+ampenc,Amplexidiscus_encrusting,Corallimorpharia,Corallimorpharia_encrusting
+anabus,Anacropora_bushy,Hard coral,Hard coral_bushy
+anefan,Annella_fan,Gorgonian,Gorgonian_fan
+antarb,Antipatharia_arborescent,Black coral,Black coral_arborescent
+antarb1,Antipatharia_arborescent1,Black coral,Black coral_arborescent
+antarb2,Antipatharia_arborescent2,Black coral,Black coral_arborescent
+antbus,Antipatharia_bushy,Black coral,Black coral_bushy
+antbus1,Antipatharia_bushy1,Black coral,Black coral_bushy
+antbus2,Antipatharia_bushy2,Black coral,Black coral_bushy
+antclu,Anthelia_clustered,Soft coral,Soft coral_clustered
+antfan,Anthogorgia_fan,Gorgonian,Gorgonian_fan
+antwhi,Antipatharia_whip,Black coral,Black coral_whip
+aphcom,Aphanta_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+ascclu,Ascidian_clustered,Ascidian,Ascidian_clustered
+ascenc,Ascidian_encrusting,Ascidian,Ascidian_encrusting
+ascere,Ascidian_erect_single,Ascidian,Ascidian_erect_single
+aspcom,Asparagopsis_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+astclu,Asterospicularia_clustered,Soft coral,Soft coral_clustered
+astenc,Astreopora_encrusting,Hard coral,Hard coral_encrusting
+astfan,Astrogorgia_fan,Gorgonian,Gorgonian_fan
+astfol,Astreopora_foliose,Hard coral,Hard coral_foliose
+astmas,Astreopora_massive,Hard coral,Hard coral_massive
+astoth,Asteroidea_other_life,Other mobile invertebrates,Other mobile invertebrates
+atrenc,Astrea_encrusting,Hard coral,Hard coral_encrusting
+atrmas,Astrea_massive,Hard coral,Hard coral_massive
+bebbus,Bebryce_bushy,Gorgonian,Gorgonian_bushy
+bebfan,Bebryce_fan,Gorgonian,Gorgonian_fan
+bivoth,Bivalvia_other_life,Other mobile invertebrates,Other mobile invertebrates
+boulss,boulder_stable_substrate,Stable substrate,Stable substrate
+brienc,Briareum_encrusting,Soft coral,Soft coral_encrusting
+brocof,Brown_algae_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose
+brybus,Bryozoa_bushy,Other sessile invertebrates,Other sessile invertebrates
+bryenc,Bryozoa_encrusting,Other sessile invertebrates,Other sessile invertebrates
+brymas,Bryozoa_massive,Other sessile invertebrates,Other sessile invertebrates
+caebus,Caementabunda_bushy,Soft coral,Soft coral_bushy
+camoth,Camarodonta_other_life,Other mobile invertebrates,Other mobile invertebrates
+capbus,Capnella_bushy,Soft coral,Soft coral_bushy
+carbus,Carijoa_bushy,Gorgonian,Gorgonian_bushy
+caulcom,Caulerpa_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+caumas,Caulastrea_massive,Hard coral,Hard coral_massive
+ceralg,Ceratodictyon_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+chacom,Chaetomorpha_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+chdfil,Chlorodesmis_filamentous,Macroalgae,Macroalgae_filamentous_Algae
+chibus,Chironephthya_bushy,Soft coral,Soft coral_bushy
+chlfol1,Chlorophyta_foliose1,Macroalgae,Macroalgae_foliose
+chocom,Chondrus_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+claclu,Clavularia_clustered,Soft coral,Soft coral_clustered
+clienc,Cliona_encrusting,Sponge,Sponge_encrusting
+clvclu,Clavelina_clustered,Ascidian,Ascidian_clustered
+codcom,Codium_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+coearb,Coelogorgia_arborescent,Gorgonian,Gorgonian_arborescent
+coeenc,Coeloseris_encrusting,Hard coral,Hard coral_encrusting
+coemas,Coeloseris_massive,Hard coral,Hard coral_massive
+conbus,Conglomeratusclera_bushy,Soft coral,Soft coral_bushy
+conenc,Condylactis_encrusting,Actiniaria,Actiniaria_encrusting
+corenc,Corallimorpharia_encrusting,Corallimorpharia,Corallimorpharia_encrusting
+corenc1,Corallimorpharia_encrusting1,Corallimorpharia,Corallimorpharia_encrusting
+corenc2,Corallimorpharia_encrusting2,Corallimorpharia,Corallimorpharia_encrusting
+corenc3,Corallimorpharia_encrusting3,Corallimorpharia,Corallimorpharia_encrusting
+corenc4,Corallimorpharia_encrusting4,Corallimorpharia,Corallimorpharia_encrusting
+cosenc,Coscinaraea_encrusting,Hard coral,Hard coral_encrusting
+cosmas,Coscinaraea_massive,Hard coral,Hard coral_massive
+crioth,Crinoidae_other_life,Other mobile invertebrates,Other mobile invertebrates
+culnov,Culcita_other_life,Other mobile invertebrates,Other mobile invertebrates
+cyafil,Cyanobacteria_filamentous,Turf,Turf_Turf
+cycenc,Cycloseris_encrusting,Hard coral,Hard coral_encrusting
+cycmas,Cycloseris_massive,Hard coral,Hard coral_massive
+cypenc,Cyphastrea_spp/Turbinaria_radicalis_encrusting,Hard coral,Hard coral_encrusting
+cypmas,Cyphastrea_massive,Hard coral,Hard coral_massive
+cytbus,Cyathelia_bushy,Hard coral,Hard coral_bushy
+delcom,Delisea_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+denbus,Dendronephthya_bushy,Soft coral,Soft coral_bushy
+diaoth,Diadema_other_life,Other mobile invertebrates,Other mobile invertebrates
+diccof,Dictyota_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose
+dicspha,Dictyosphaeria_encrusting like,Macroalgae,Macroalgae_encrusting like
+didclu,Didemnum_clustered,Ascidian,Ascidian_clustered
+didenc,Didemnum_encrusting,Ascidian,Ascidian_encrusting
+didere,Didemnum_erect_single,Ascidian,Ascidian_erectsingle
+dilmas,Diploastrea_massive,Hard coral,Hard coral_massive
+dioart,Dichotomaria_articulated_calcareous,Macroalgae,Macroalgae_articulated_calcareous
+dipenc,Merulinidae_spp2_encrusting,Hard coral,Hard coral_encrusting
+dipmas,Merulinidae_spp2_massive,Hard coral,Hard coral_massive
+disenc,Discosoma_encrusting,Corallimorpharia,Corallimorpharia_encrusting
+ditfol,Dictyopteris_foliose,Macroalgae,Macroalgae_foliose
+dudcom,Dudresnaya_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+echenc,Echinophyllia/Oxypora_encrusting,Hard coral,Hard coral_encrusting
+echmas,Echinophyllia/Oxypora_massive,Hard coral,Hard coral_massive
+echoth,Echinometridae_other_life,Other mobile invertebrates,Other mobile invertebrates
+ecoenc,Echinopora_encrusting,Hard coral,Hard coral_encrusting
+ecofol,Echinopora_foliose,Hard coral,Hard coral_foliose
+effclu,Efflatounaria_clustered,Soft coral,Soft coral_clustered
+ellarb,Ellisella/Juncella_arborescent,Gorgonian,Gorgonian_arborescent
+entenc,Entacmaea_encrusting,Actiniaria,Actiniaria_encrusting
+epiarb,Epizoanthus_arborescent,Zoanthid,Zoanthid_arborescent
+euccom,Eucheuma_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+euparb,Euplexaura_arborescent,Gorgonian,Gorgonian_arborescent
+eupfan,Euplexaura_fan,Gorgonian,Gorgonian_fan
+eupmas,Euphyllia_massive,Hard coral,Hard coral_massive
+faienc,Merulinidae_spp1_encrusting,Hard coral,Hard coral_encrusting
+faimas,Merulinidae_spp1_massive,Hard coral,Hard coral_massive
+fimmas,Fimbriaphyllia_massive,Hard coral,Hard coral_massive
+fistws,fishing_lines_tws,Artificial Debris,Artificial Debris
+foroth,Foraminifera_other_life,Other mobile invertebrates,Other mobile invertebrates
+funmas,Fungiidae_massive,Hard coral,Hard coral_massive
+galenc,Galaxea_encrusting,Hard coral,Hard coral_encrusting
+galmas,Galaxea_massive,Hard coral,Hard coral_massive
+garenc,Gardineroseris_encrusting,Hard coral,Hard coral_encrusting
+garmas,Gardineroseris_massive,Hard coral,Hard coral_massive
+gasoth,Gastropoda_other_life,Other mobile invertebrates,Other mobile invertebrates
+glaart,Galaxaura_articulated_calcareous,Macroalgae,Macroalgae_articulated_calcareous
+gnicol,Goniopora_columnar,Hard coral,Hard coral_columnar
+gnienc,Goniopora_encrusting,Hard coral,Hard coral_encrusting
+gnimas,Goniopora_massive,Hard coral,Hard coral_massive
+gonenc,Merulinidae_spp1_encrusting,Hard coral,Hard coral_encrusting
+gonmas,Merulinidae_spp1_massive,Hard coral,Hard coral_massive
+gracom,Gracilaria_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+gravus,gravel/small rubble_unstable_substrate,Unstable substrate,Unstable substrate
+hacenc,hard_coral_encrusting,Hard coral,Hard coral_encrusting
+halart,Halimeda_articulated_calcareouseous,Macroalgae,Macroalgae_articulated_calcareous
+halova,Halophila_ovalis_seagrass,Seagrass,Seagrass
+helbus,Heliopora_bushy,Hard coral,Hard coral_bushy
+helenc,Heliopora_encrusting,Hard coral,Hard coral_encrusting
+hemoth,Hemicentrotus_other_life,Other mobile invertebrates,Other mobile invertebrates
+hetclu,Xenia/Heteroxenia_clustered,Soft coral,Soft coral_clustered
+hetenc,Heteractis_encrusting,Actiniaria,Actiniaria_encrusting
+hicbus,Hicksonella_bushy,Gorgonian,Gorgonian_bushy
+hlmfol,Halymenia_foliose,Macroalgae,Macroalgae_foliose
+holospp,Holothuroidea_spp,Other mobile invertebrates,Other mobile invertebrates
+hydarb,Hydonophora_arborescent/Montipora_arborescent (crasinata-like),Hard coral,Hard coral_arborescent
+hydbus,Hydonophora_arborescent/Montipora_bushy (crasinata-like),Hard coral,Hard coral_bushy
+hydcom,Hydropuntia_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+hydenc,Hydnophora_encrusting,Hard coral,Hard coral_encrusting
+hydmas,Hydnophora_massive,Hard coral,Hard coral_massive
+hypcom,Hypnea_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+hyrarb,Hydrozoa_arborescent,Hydrozoa,Hydrozoa_arborescent
+hyrbus,Hydrozoa_bushy,Hydrozoa,Hydrozoa_bushy
+hyrplu,Hydrozoa_plumose,Hydrozoa,Hydrozoa_plumose
+isiarb,Isis_arborescent,Gorgonian,Gorgonian_arborescent
+isparb,Isopora_arborescent,Hard coral,Hard coral_arborescent
+ispcol,Isopora_columnar,Hard coral,Hard coral_columnar
+ispenc,Isopora_encrusting,Hard coral,Hard coral_encrusting
+ispmas,Isopora_massive,Hard coral,Hard coral_massive
+janart,Jania_articulated_calcareous,Macroalgae,Macroalgae_articulated_calcareous
+junwhi,Ellisella/Juncella_whip,Gorgonian,Gorgonian_whip
+laucom,Laurencia_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+lbamas,Lobactis_massive,Hard coral,Hard coral_massive
+lembus,Lemnalia_bushy,Soft coral,Soft coral_bushy
+letenc,Leptastrea_encrusting,Hard coral,Hard coral_encrusting
+letmas,Leptastrea_massive,Hard coral,Hard coral_massive
+liaart,Liagora/Neoizziella_articulated_calcareous,Macroalgae,Macroalgae_articulated_calcareous
+limess,limestone_stable_substrate,Stable substrate,Stable substrate
+linoth,Linckia_other_life,Other mobile invertebrates,Other mobile invertebrates
+lisenc,Lissoclinum_encrusting,Ascidian,Ascidian_encrusting
+litbus,Litophyton_bushy,Soft coral,Soft coral_bushy
+litenc,Lithophyllon_encrusting,Hard coral,Hard coral_encrusting
+litfol,Lithophyllon_foliose,Hard coral,Hard coral_foliose
+lobcof,Lobophora_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose
+lobenc,Lobophyllia_encrusting,Hard coral,Hard coral_encrusting
+lobmas,Lobophyllia_massive,Hard coral,Hard coral_massive
+lohenc,Lohowia_encrusting,Soft coral,Soft coral_encrusting
+loodig,Lobophytum_digitate,Soft coral,Soft coral_digitate
+loolob,Lobophytum_lobate,Soft coral,Soft coral_lobate
+loomas,Lobophytum_massive,Soft coral,Soft coral_massive
+lpsenc,Leptoseris_encrusting,Hard coral,Hard coral_encrusting
+lpsfol,Leptoseris_foliose,Hard coral,Hard coral_foliose
+ltrenc,Leptoria_encrustring,Hard coral,Hard coral_encrusting
+ltrmas,Leptoria_massive,Hard coral,Hard coral_massive
+marart,Corallina_articulated_calcareous,Macroalgae,Macroalgae_articulated_calcareous
+masart,others_cca,CCA,CCA
+melcof,Melanamansia_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose
+melfan,Melithaeidae_fan,Gorgonian,Gorgonian_fan
+mercom,Meristotheca_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+merenc,Merulinidae_encrusting,Hard coral,Hard coral_encrusting
+mermas,Merulinidae_massive,Hard coral,Hard coral_massive
+mesart,Mesophyllum_articulated_calcareous,Macroalgae,Macroalgae_articulated_calcareous
+meuenc,Merulina_encrusting,Hard coral,Hard coral_encrusting
+meufol,Merulina_foliose,Hard coral,Hard coral_foliose
+milarb,Millepora_arborescent,Hard coral,Hard coral_arborescent
+milbus,Millepora_bushy,Hard coral,Hard coral_bushy
+milenc,Millepora_encrusting,Hard coral,Hard coral_encrusting
+monenc,Porites/Montipora_encrusting,Hard coral,Hard coral_encrusting
+monfol,Montipora_foliose,Hard coral,Hard coral_foliose
+monmas,Montipora_massive,Hard coral,Hard coral_massive
+mycenc,Mycedium_encrusting,Hard coral,Hard coral_encrusting
+mycfol,Mycedium_foliose,Hard coral,Hard coral_foliose
+nemenc,Nemanthus_encrusting,Actiniaria,Actiniaria_encrusting
+neocof,Neomeris_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose
+nepbus,Nephthyigorgia_bushy,Soft coral,Soft coral_bushy
+nettws,fish_net,Artificial Debris,Artificial Debris
+neucom,Neurymenia_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+nudoth,Nudibranch_spp,Other mobile invertebrates,Other mobile invertebrates
+ochoth,Osteichthyes_other_life,Fish,Fish
+ophoth,Ophiuroidea_other_life,Other mobile invertebrates,Other mobile invertebrates
+othcca,others_cca,CCA,CCA
+othoth,other_life,Other sessile invertebrates,Other sessile invertebrates
+oulenc,Oulophyllia_encrusting,Hard coral,Hard coral_encrusting
+oulmas,Oulophyllia_massive,Hard coral,Hard coral_massive
+oustenc,Oulastrea_ encrusting,Hard coral,Hard coral_encrusting
+oxyenc,Echinophyllia/Oxypora_encrusting,Hard coral,Hard coral_encrusting
+oxyfol,Echinophyllia/Oxypora_foliose,Hard coral,Hard coral_foliose
+oxymas,Echinophyllia/Oxypora_massive,Hard coral,Hard coral_massive
+pacenc,Pachyseris_encrusting,Hard coral,Hard coral_encrusting
+pacfol,Pachyseris_foliose,Hard coral,Hard coral_foliose
+padcof,Padina_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose
+pagenc,Paragoniastrea_encrusting,Hard coral,Hard coral_encrusting
+pagmas,Paragoniastrea_massive,Hard coral,Hard coral_massive
+pagoth,Paguroidea_other_life,Other mobile invertebrates,Other mobile invertebrates
+palenc,Palythoa_encrusting,Zoanthid,Zoanthid_encrusting
+palmas,Palythoa_encrusting,Zoanthid,Zoanthid_encrusting
+pararb,Parazoanthus_arborescent,Zoanthid,Zoanthid_arborescent
+parbus,Paraminabea_bushy,Gorgonian,Gorgonian_bushy
+parmas,Paraminabea_massive,Gorgonian,Gorgonian_massive
+pavcol,Pavona_columnar,Hard coral,Hard coral_columnar
+pavenc,Pavona_encrusting,Hard coral,Hard coral_encrusting
+pavfol,Pavona_foliose,Hard coral,Hard coral_foliose
+pavmas,Pavona_massive,Hard coral,Hard coral_massive
+pecenc,Pectinia_encrusting,Hard coral,Hard coral_encrusting
+pescca,Peyssonnelia_cca,CCA,CCA
+phsenc,Physophyllia_encrusting,Hard coral,Hard coral_encrusting
+phyenc,Phymanthus_encrusting,Actiniaria,Actiniaria_encrusting
+pinarb,Pinnigorgia_arborescent,Gorgonian,Gorgonian_arborescent
+plaenc,Platygyra_encrusting,Hard coral,Hard coral_encrusting
+plamas,Platygyra_massive,Hard coral,Hard coral_massive
+pleenc,Plesiastrea_encrusting,Hard coral,Hard coral_encrusting
+plemas,Pleuractis_massive,Hard coral,Hard coral_massive
+pocbus,Pocillopora_bushy,Hard coral,Hard coral_bushy
+poctab,Pocillopora_tabular,Hard coral,Hard coral_tabular
+podenc,Podabacia_encrusting,Hard coral,Hard coral_encrusting
+podfol,Podabacia_foliose,Hard coral,Hard coral_foliose
+polmas,Polyphyllia_massive,Hard coral,Hard coral_massive
+porcom,Portieria_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+potcol,Porites_columnar,Hard coral,Hard coral_columnar
+potenc,Porites/Montipora_encrusting,Hard coral,Hard coral_encrusting
+potfol,Porites_foliose,Hard coral,Hard coral_foliose
+potmas,Porites_massive,Hard coral,Hard coral_massive
+psabus,Psammocora_bushy,Hard coral,Hard coral_bushy
+psacol,Psammocora_spp/Coscinaraea_exesa_columnar,Hard coral,Hard coral_columnar
+psaenc,Psammocora_encrusting,Hard coral,Hard coral_encrusting
+psamas,Psammocora_massive,Hard coral,Hard coral_massive
+redart,Red_algae_articulated_calcareous,Macroalgae,Macroalgae_articulated_calcareous
+redcof,Red_algae_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose
+redcom,Red_algae_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+redfil,Red_filamentous_algae,Turf,Turf_Turf
+redcof1,Red_algae_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose
+rhocom,Rhodopeltis_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+rhyenc,Rhytisma_encrusting,Soft coral,Soft coral_encrusting
+rockss,rock_stable_substrate,Stable substrate,Stable substrate
+rubbus,rubble_unstable_substrate,Unstable substrate,Unstable substrate
+rumarb,Rumphella_arborescent,Gorgonian,Gorgonian_arborescent
+rumbus,Rumphella_bushy,Gorgonian,Gorgonian_bushy
+saboth,Sabellastarte_other_life,Other sessile invertebrates,Other sessile invertebrates
+sandus,sand_unstable_substrate,Unstable substrate,Unstable substrate
+sarlem,Sargassum_leathery_macrophyte,Macroalgae,Macroalgae_leathery_macrophyte
+sarlob,Sarcophyton_lobate,Soft coral,Soft coral_lobate
+sarmas,Sarcophyton_massive,Soft coral,Soft coral_massive
+scacol,Scapophyllia_columnar,Hard coral,Hard coral_columnar
+sclbus,Scleronephthya_bushy,Soft coral,Soft coral_bushy
+scomas,Scolymia_massive,Hard coral,Hard coral_massive
+sebcof,Sebdenia_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose
+serbus,Seriatopora_bushy,Hard coral,Hard coral_bushy
+shatws,shadow_TWS,TWS,TWS
+sidenc,Siderastrea_encrusting,Hard coral,Hard coral_encrusting
+sidmas,Siderastrea_massive,Hard coral,Hard coral_massive
+siltus,silt_unstable_substrate,Unstable substrate,Unstable substrate
+sinbus,Sinularia/Cladiella/Klyxum_bushy,Soft coral,Soft coral_bushy
+sindig,Sinularia/Cladiella/Klyxum_digitate,Soft coral,Soft coral_digitate
+sinlob,Sinularia/Cladiella/Klyxum_lobate,Soft coral,Soft coral_lobate
+sipbus,Siphonogorgia_bushy,Soft coral,Soft coral_bushy
+sipfan,Siphonogorgia_fan,Gorgonian,Gorgonian_fan
+solfan,Solenocaulon_fan,Gorgonian,Gorgonian_fan
+spacof,Spatoglossum/Stypopodium_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose
+spoarb,Sponge_arborescent,Sponge,Sponge_arborescent
+spoenc,Sponge_encrusting,Sponge,Sponge_encrusting
+spofla,Sponge_flabellate,Sponge,Sponge_flabellate
+spoglo,Sponge_globular,Sponge,Sponge_globular
+spomas,Sponge_massive,Sponge,Sponge_massive
+spopap,Sponge_papillate,Sponge,Sponge_papillate
+spoped,Sponge_pedunculate,Sponge,Sponge_pedunculate
+sporep,Sponge_repent_branching,Sponge,Sponge_repent_branching
+spotub,Sponge_tubular,Sponge,Sponge_tubular
+spycom,Spyridia_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+stebus,Stereonephthya_bushy,Soft coral,Soft coral_bushy
+stienc,Stichodactylidae_encrusting,Actiniaria,Actiniaria_encrusting
+stlenc,Stylocoeniella_encrusting,Hard coral,Hard coral_encrusting
+stpcof,Spatoglossum/Stypopodium_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose
+stybus,Stylophora_bushy,Hard coral,Hard coral_bushy
+syabus,Stylaster_bushy,Hard coral,Hard coral_bushy
+symenc,Lobophyllia_encrusting,Hard coral,Hard coral_encrusting
+symmas,Lobophyllia_massive,Hard coral,Hard coral_massive
+taptws,tape_TWS,TWS,TWS
+terenc,Terpios_encrusting,Sponge,Sponge_encrusting
+thalhem,Thalassia_hemprichii_seagrass,Seagrass,Seagrass
+triart,Tricleocarpa_articulated_calcareous,Macroalgae,Macroalgae_articulated_calcareous
+trienc,Tridacna_encrusting,Other sessile invertebrates,Other sessile invertebrates
+tubmas,Tubipora_massive,Hard coral,Hard coral_massive
+turcom,Turbinaria_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose
+turenc,Turbinaria_encrusting,Hard coral,Hard coral_encrusting
+turfil,Turf_filamentous,Turf,Turf_Turf
+turfol,Turbinaria_foliose,Hard coral,Hard coral_foliose
+turmas,Turbinaria_massive,Hard coral,Hard coral_massive
+turrad_enc,Turbinaria_encrusting,Hard coral,Hard coral_encrusting
+tursed,Turf_sedimented,Turf,Turf_Turf
+tusbus,Tubastraea/Cladopsammia_bushy,Hard coral,Hard coral_bushy
+tusenc,Tubastraea_encrusting,Hard coral,Hard coral_encrusting
+tusmas,Tubastraea_massive,Hard coral,Hard coral_massive
+udocom,Udotea_corticated_macrophyte,Macroalgae,Macroalgae_corticated_macrophyte
+ulvfol,Ulva_foliose,Macroalgae,Macroalgae_corticated_foliose
+unktws,unknown_TWS,TWS,TWS
+valcof,Valonia_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose
+vimwhi,Viminella_whip,Gorgonian,Gorgonian_whip
+wantws,wand_TWS,TWS,TWS
+xesmas,Xestospongia_massive,Sponge,Sponge_massive
+xnaclu,Xenia/Heteroxenia_clustered,Soft coral,Soft coral_clustered
+zoaenc,Zoanthus_encrusting,Zoanthid,Zoanthid_encrusting
+zoamas,Zoanthus_massive,Zoanthid,Zoanthid_massive
+zoncof,Zonaria_corticated_foliose,Macroalgae,Macroalgae_corticated_foliose

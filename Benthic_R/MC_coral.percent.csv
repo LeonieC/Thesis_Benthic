@@ -1,0 +1,90 @@
+"Region","Location","Depth","MajorCategory","Percent"
+"North","Bitou_15","15","Octocoral",0.0019047619047619
+"North","Bitou_15","15","Other",0.39352380952381
+"North","Bitou_15","15","Scleractinian",0.604571428571429
+"North","Bitou_30","30","Antipatharian",0.0114285714285714
+"North","Bitou_30","30","Gorgonian",0.0114285714285714
+"North","Bitou_30","30","Octocoral",0.00253968253968254
+"North","Bitou_30","30","Other",0.906031746031746
+"North","Bitou_30","30","Scleractinian",0.0685714285714286
+"North","Bitou_5","5","Octocoral",0.000380952380952381
+"North","Bitou_5","5","Other",0.672761904761905
+"North","Bitou_5","5","Scleractinian",0.326857142857143
+"North","Fulong_15","15","Octocoral",0.00152380952380952
+"North","Fulong_15","15","Other",0.816380952380952
+"North","Fulong_15","15","Scleractinian",0.182095238095238
+"North","Fulong_30","30","Antipatharian",0.0247619047619048
+"North","Fulong_30","30","Gorgonian",0.0285714285714286
+"North","Fulong_30","30","Octocoral",0.0171428571428571
+"North","Fulong_30","30","Other",0.923174603174603
+"North","Fulong_30","30","Scleractinian",0.00634920634920635
+"North","Fulong_5","5","Other",0.88647619047619
+"North","Fulong_5","5","Scleractinian",0.11352380952381
+"North","Keelung Island_15","15","Antipatharian",0.00266666666666667
+"North","Keelung Island_15","15","Gorgonian",0.00761904761904762
+"North","Keelung Island_15","15","Octocoral",0.00152380952380952
+"North","Keelung Island_15","15","Other",0.772190476190476
+"North","Keelung Island_15","15","Scleractinian",0.216
+"North","Keelung Island_30","30","Antipatharian",0.0507936507936508
+"North","Keelung Island_30","30","Gorgonian",0.0241269841269841
+"North","Keelung Island_30","30","Octocoral",0.0019047619047619
+"North","Keelung Island_30","30","Other",0.872380952380952
+"North","Keelung Island_30","30","Scleractinian",0.0507936507936508
+"North","Keelung Island_5","5","Octocoral",0.00152380952380952
+"North","Keelung Island_5","5","Other",0.742095238095238
+"North","Keelung Island_5","5","Scleractinian",0.256380952380952
+"Green Island","Dabaisha_15","15","Octocoral",0.319619047619048
+"Green Island","Dabaisha_15","15","Other",0.39047619047619
+"Green Island","Dabaisha_15","15","Scleractinian",0.289904761904762
+"Green Island","Dabaisha_30","30","Gorgonian",0.00634920634920635
+"Green Island","Dabaisha_30","30","Octocoral",0.26984126984127
+"Green Island","Dabaisha_30","30","Other",0.596825396825397
+"Green Island","Dabaisha_30","30","Scleractinian",0.126984126984127
+"Green Island","Dabaisha_5","5","Octocoral",0.0796190476190476
+"Green Island","Dabaisha_5","5","Other",0.418666666666667
+"Green Island","Dabaisha_5","5","Scleractinian",0.501714285714286
+"Green Island","Gongguan_15","15","Gorgonian",0.000380952380952381
+"Green Island","Gongguan_15","15","Octocoral",0.0403809523809524
+"Green Island","Gongguan_15","15","Other",0.595047619047619
+"Green Island","Gongguan_15","15","Scleractinian",0.364190476190476
+"Green Island","Gongguan_30","30","Gorgonian",0.0019047619047619
+"Green Island","Gongguan_30","30","Octocoral",0.0457142857142857
+"Green Island","Gongguan_30","30","Other",0.715555555555556
+"Green Island","Gongguan_30","30","Scleractinian",0.236825396825397
+"Green Island","Gongguan_5","5","Octocoral",0.0548571428571429
+"Green Island","Gongguan_5","5","Other",0.587809523809524
+"Green Island","Gongguan_5","5","Scleractinian",0.357333333333333
+"Green Island","Guiwan_15","15","Antipatharian",0.000380952380952381
+"Green Island","Guiwan_15","15","Gorgonian",0.00114285714285714
+"Green Island","Guiwan_15","15","Octocoral",0.48152380952381
+"Green Island","Guiwan_15","15","Other",0.296761904761905
+"Green Island","Guiwan_15","15","Scleractinian",0.220190476190476
+"Green Island","Guiwan_30","30","Octocoral",0.360634920634921
+"Green Island","Guiwan_30","30","Other",0.585396825396825
+"Green Island","Guiwan_30","30","Scleractinian",0.053968253968254
+"Green Island","Guiwan_5","5","Octocoral",0.114666666666667
+"Green Island","Guiwan_5","5","Other",0.437714285714286
+"Green Island","Guiwan_5","5","Scleractinian",0.447619047619048
+"Xiaoliuqiu","Dafu_15","15","Octocoral",0.00228571428571429
+"Xiaoliuqiu","Dafu_15","15","Other",0.763047619047619
+"Xiaoliuqiu","Dafu_15","15","Scleractinian",0.234666666666667
+"Xiaoliuqiu","Dafu_30","30","Octocoral",0.0019047619047619
+"Xiaoliuqiu","Dafu_30","30","Other",0.764444444444444
+"Xiaoliuqiu","Dafu_30","30","Scleractinian",0.233650793650794
+"Xiaoliuqiu","Dafu_5","5","Other",0.898666666666667
+"Xiaoliuqiu","Dafu_5","5","Scleractinian",0.101333333333333
+"Xiaoliuqiu","Lobster Cave_15","15","Octocoral",0.0179047619047619
+"Xiaoliuqiu","Lobster Cave_15","15","Other",0.849142857142857
+"Xiaoliuqiu","Lobster Cave_15","15","Scleractinian",0.132952380952381
+"Xiaoliuqiu","Lobster Cave_30","30","Octocoral",0.0476190476190476
+"Xiaoliuqiu","Lobster Cave_30","30","Other",0.86031746031746
+"Xiaoliuqiu","Lobster Cave_30","30","Scleractinian",0.0920634920634921
+"Xiaoliuqiu","Lobster Cave_5","5","Other",0.956952380952381
+"Xiaoliuqiu","Lobster Cave_5","5","Scleractinian",0.043047619047619
+"Xiaoliuqiu","Venice_15","15","Octocoral",0.000380952380952381
+"Xiaoliuqiu","Venice_15","15","Other",0.786666666666667
+"Xiaoliuqiu","Venice_15","15","Scleractinian",0.212952380952381
+"Xiaoliuqiu","Venice_30","30","Other",0.897142857142857
+"Xiaoliuqiu","Venice_30","30","Scleractinian",0.102857142857143
+"Xiaoliuqiu","Venice_5","5","Other",0.822857142857143
+"Xiaoliuqiu","Venice_5","5","Scleractinian",0.177142857142857
