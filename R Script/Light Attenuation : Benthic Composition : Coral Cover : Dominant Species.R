@@ -9,12 +9,6 @@ setwd("/Users/leonie/Desktop/R_for_Benthic/Benthic_R")
 PAR.diving.data <- read.csv("PAR raw data diving.csv", header=T, sep=",")
 PAR.surface.data <- read.csv("PAR raw data surface.csv", header=T, sep=",")
 
-## *PAR SD ####
-PAR_sd <- PAR.diving.data %>% 
-  group_by(Region, Depth) %>% 
-  summarise(SD = sd(PAR, na.rm = F),
-            Mean=mean(PAR))
-
 ## *Attenuation Plot ####
 PAR.diving.mean <- PAR.diving.data %>%
   group_by(Region, Site, Depth) %>% 
@@ -51,6 +45,13 @@ ggplot(data=PAR.full, aes(x=Depth, y=Adjustment, group=Region)) +
         axis.title.x = element_text(size = 14), axis.title.y = element_text(size = 14),
         axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12),
         legend.title = element_text(size = 10), legend.text = element_text(size = 8))
+
+## *PAR SD ####
+PAR_sd <- PAR.diving.mean %>% 
+  group_by(Region, Depth) %>% 
+  summarise(SD = sd(D.Mean, na.rm = F),
+            D.Mean = mean(D.Mean, na.rm = F),
+            .groups = 'drop')  # This will ungroup the data after summarising
 
 PAR.RS.sd <- PAR.full %>%
   group_by(Region) %>%
