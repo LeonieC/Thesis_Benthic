@@ -47,11 +47,17 @@ ggplot(data=PAR.full, aes(x=Depth, y=Adjustment, group=Region)) +
         legend.title = element_text(size = 10), legend.text = element_text(size = 8))
 
 ## *PAR SD ####
-PAR_sd <- PAR.diving.mean %>% 
+PAR_D.sd <- PAR.diving.mean %>% 
   group_by(Region, Depth) %>% 
   summarise(SD = sd(D.Mean, na.rm = F),
             D.Mean = mean(D.Mean, na.rm = F),
             .groups = 'drop')  # This will ungroup the data after summarising
+
+PAR_S.sd <- PAR.surface.mean %>% 
+  group_by(Region, Depth) %>% 
+  summarise(SD = sd(S.Mean, na.rm = F),
+            S.Mean = mean(S.Mean, na.rm = F),
+            .groups = 'drop')
 
 PAR.RS.sd <- PAR.full %>%
   group_by(Region) %>%
