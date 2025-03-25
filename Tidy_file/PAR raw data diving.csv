@@ -1,0 +1,893 @@
+﻿Region,Site,Depth,PAR
+North,KI,30,4.7
+North,KI,30,9.1
+North,KI,30,10.1
+North,KI,30,7.9
+North,KI,30,6.1
+North,KI,30,3.6
+North,KI,30,5.9
+North,KI,30,8.1
+North,KI,30,8.7
+North,KI,30,2.9
+North,KI,30,1.4
+North,KI,30,3.1
+North,KI,30,5.5
+North,KI,30,9.4
+North,KI,30,14.9
+North,KI,30,21.8
+North,KI,30,6.7
+North,KI,30,9.5
+North,KI,30,14.6
+North,KI,30,16.9
+North,KI,30,13.7
+North,KI,30,24.4
+North,KI,30,41.4
+North,KI,15,18.6
+North,KI,15,25.6
+North,KI,15,26.7
+North,KI,15,27.9
+North,KI,15,27.6
+North,KI,15,26.7
+North,KI,15,23.9
+North,KI,15,24.3
+North,KI,15,26.9
+North,KI,15,30.1
+North,KI,15,32.2
+North,KI,15,29.2
+North,KI,15,23.9
+North,KI,15,24.4
+North,KI,15,25.3
+North,KI,15,25.7
+North,KI,15,31.2
+North,KI,15,35.7
+North,KI,15,30.8
+North,KI,15,34.7
+North,KI,15,34
+North,KI,15,25.9
+North,KI,15,25.6
+North,KI,15,31.2
+North,KI,15,36.1
+North,KI,15,41.6
+North,KI,15,48
+North,KI,15,43.5
+North,KI,15,48.3
+North,KI,15,51.9
+North,KI,15,43
+North,KI,15,49.6
+North,KI,15,44.5
+North,KI,15,53.7
+North,KI,15,48.3
+North,KI,15,40
+North,KI,15,29.5
+North,KI,15,30
+North,KI,15,38.5
+North,KI,15,32
+North,KI,15,25.5
+North,KI,15,26
+North,KI,15,26.5
+North,KI,15,23.4
+North,KI,15,22.6
+North,KI,15,20.4
+North,KI,5,121.2
+North,KI,5,101.5
+North,KI,5,155.9
+North,KI,5,174.7
+North,KI,5,179.9
+North,KI,5,163.2
+North,KI,5,163.5
+North,KI,5,158.9
+North,KI,5,152.6
+North,KI,5,147.3
+North,KI,5,143.4
+North,KI,5,140.5
+North,KI,5,136.6
+North,KI,5,132.4
+North,KI,5,128.6
+North,KI,5,124.5
+North,KI,5,120.9
+North,KI,5,118.4
+North,KI,5,114.6
+North,KI,5,109.8
+North,KI,5,105
+North,KI,5,100.8
+North,KI,5,97.3
+North,KI,5,94.6
+North,KI,5,94.1
+North,KI,5,95.4
+North,KI,5,97
+North,KI,5,99.5
+North,KI,5,102.1
+North,KI,5,104.7
+North,KI,5,106.6
+North,KI,5,107.5
+North,KI,5,109.7
+North,KI,5,112
+North,KI,5,112.5
+North,KI,5,112.9
+North,KI,5,114.5
+North,KI,5,116.1
+North,KI,5,117.9
+North,KI,5,119.4
+North,KI,5,120.5
+North,KI,5,120
+North,KI,5,118.9
+North,KI,5,102
+North,BT,30,4.7
+North,BT,30,4.8
+North,BT,30,4.9
+North,BT,30,5
+North,BT,30,4.6
+North,BT,30,23.7
+North,BT,30,17.1
+North,BT,30,4.7
+North,BT,30,5.4
+North,BT,30,5.9
+North,BT,30,6
+North,BT,30,6.1
+North,BT,30,6.1
+North,BT,30,6.1
+North,BT,30,6.2
+North,BT,30,6.3
+North,BT,30,6.4
+North,BT,30,7
+North,BT,30,7.9
+North,BT,30,7.3
+North,BT,15,29.3
+North,BT,15,44.8
+North,BT,15,69.8
+North,BT,15,74.5
+North,BT,15,70.4
+North,BT,15,68.3
+North,BT,15,68.7
+North,BT,15,54.7
+North,BT,15,52.4
+North,BT,15,47.4
+North,BT,15,50.2
+North,BT,15,53
+North,BT,15,55
+North,BT,15,54.3
+North,BT,15,55.7
+North,BT,15,59.6
+North,BT,15,60.1
+North,BT,15,60.4
+North,BT,15,60
+North,BT,15,57.6
+North,BT,15,54.3
+North,BT,15,52
+North,BT,15,48.8
+North,BT,15,45.6
+North,BT,15,42.8
+North,BT,15,39.7
+North,BT,15,36.2
+North,BT,15,33.2
+North,BT,15,30.9
+North,BT,15,28.5
+North,BT,15,26.1
+North,BT,15,23.2
+North,BT,15,21.4
+North,BT,15,19.7
+North,BT,15,18.7
+North,BT,15,17
+North,BT,15,15.3
+North,BT,15,14.9
+North,BT,15,14.1
+North,BT,15,13.5
+North,BT,15,12.9
+North,BT,15,11.9
+North,BT,5,15.2
+North,BT,5,18
+North,BT,5,24.3
+North,BT,5,25.4
+North,BT,5,26.4
+North,BT,5,27.4
+North,BT,5,28.3
+North,BT,5,28.9
+North,BT,5,30
+North,BT,5,31.1
+North,BT,5,32.5
+North,BT,5,33.3
+North,BT,5,34.9
+North,BT,5,36.8
+North,BT,5,37.5
+North,BT,5,38.7
+North,BT,5,39.8
+North,BT,5,40.5
+North,BT,5,41.4
+North,BT,5,42
+North,BT,5,42.5
+North,BT,5,43.6
+North,BT,5,45
+North,BT,5,46.1
+North,BT,5,47
+North,BT,5,48.3
+North,BT,5,49.7
+North,BT,5,51.1
+North,BT,5,52.1
+North,BT,5,53.2
+North,BT,5,54
+North,BT,5,54.8
+North,BT,5,55.3
+North,BT,5,56.6
+North,BT,5,57.7
+North,BT,5,58.9
+North,BT,5,66
+North,FL,30,3.1
+North,FL,30,4.1
+North,FL,30,5.3
+North,FL,30,5.9
+North,FL,30,6
+North,FL,30,5.9
+North,FL,30,5.7
+North,FL,30,5.4
+North,FL,30,5.2
+North,FL,30,5.2
+North,FL,30,5.2
+North,FL,30,5.3
+North,FL,30,5.7
+North,FL,30,5.3
+North,FL,30,4.5
+North,FL,30,4.4
+North,FL,30,3.2
+North,FL,15,21.2
+North,FL,15,24.8
+North,FL,15,24.2
+North,FL,15,23.4
+North,FL,15,22
+North,FL,15,21.6
+North,FL,15,22
+North,FL,15,22.1
+North,FL,15,22.2
+North,FL,15,22.6
+North,FL,15,22.5
+North,FL,15,21.4
+North,FL,15,22.1
+North,FL,15,22.1
+North,FL,15,21.5
+North,FL,15,21
+North,FL,15,20.8
+North,FL,15,20.5
+North,FL,15,20.4
+North,FL,15,21.4
+North,FL,15,21.6
+North,FL,15,21.8
+North,FL,15,21.9
+North,FL,15,21.8
+North,FL,15,21.6
+North,FL,15,21.2
+North,FL,15,20.1
+North,FL,15,19.5
+North,FL,15,19.5
+North,FL,15,19.5
+North,FL,15,19.6
+North,FL,15,19.8
+North,FL,15,20
+North,FL,15,19.8
+North,FL,15,19.6
+North,FL,15,19.1
+North,FL,5,32.1
+North,FL,5,33.5
+North,FL,5,36.2
+North,FL,5,36.9
+North,FL,5,36
+North,FL,5,35
+North,FL,5,33.8
+North,FL,5,33.3
+North,FL,5,33.1
+North,FL,5,32.7
+North,FL,5,31.9
+North,FL,5,31.1
+North,FL,5,30.5
+North,FL,5,29.5
+North,FL,5,28.8
+North,FL,5,28.6
+North,FL,5,28
+North,FL,5,25.4
+North,FL,5,24.2
+North,FL,5,26.7
+North,FL,5,27.2
+North,FL,5,28.2
+North,FL,5,28.8
+North,FL,5,30
+North,FL,5,30.9
+North,FL,5,31
+North,FL,5,30.9
+North,FL,5,29.9
+North,FL,5,28.8
+North,FL,5,28.1
+North,FL,5,24.9
+North,FL,5,24.8
+North,FL,5,24.2
+North,FL,5,23.8
+North,FL,5,22.8
+Green Island,GG,30,56
+Green Island,GG,30,65.4
+Green Island,GG,30,67.1
+Green Island,GG,30,72
+Green Island,GG,30,72.6
+Green Island,GG,30,83.9
+Green Island,GG,30,51.4
+Green Island,GG,30,28.3
+Green Island,GG,30,26.3
+Green Island,GG,30,34.7
+Green Island,GG,30,43.4
+Green Island,GG,30,66
+Green Island,GG,30,73
+Green Island,GG,30,75.3
+Green Island,GG,30,80.5
+Green Island,GG,30,81.7
+Green Island,GG,30,61.2
+Green Island,GG,30,97.8
+Green Island,GG,30,145.6
+Green Island,GG,15,151.6
+Green Island,GG,15,201.4
+Green Island,GG,15,182.5
+Green Island,GG,15,268.9
+Green Island,GG,15,259.2
+Green Island,GG,15,277
+Green Island,GG,15,266.4
+Green Island,GG,15,243
+Green Island,GG,15,236.7
+Green Island,GG,15,269.1
+Green Island,GG,15,289.9
+Green Island,GG,15,321.3
+Green Island,GG,15,302.7
+Green Island,GG,15,284.2
+Green Island,GG,15,280.7
+Green Island,GG,15,224.6
+Green Island,GG,15,297.5
+Green Island,GG,15,285.1
+Green Island,GG,15,272.5
+Green Island,GG,15,225.7
+Green Island,GG,15,227.6
+Green Island,GG,15,241.9
+Green Island,GG,15,251.4
+Green Island,GG,15,261.7
+Green Island,GG,15,275.5
+Green Island,GG,15,173.2
+Green Island,GG,15,182.7
+Green Island,GG,15,181.7
+Green Island,GG,15,132.4
+Green Island,GG,15,144
+Green Island,GG,15,127.3
+Green Island,GG,15,130.4
+Green Island,GG,15,126.3
+Green Island,GG,15,119.2
+Green Island,GG,15,120.8
+Green Island,GG,15,119.3
+Green Island,GG,15,125.3
+Green Island,GG,15,118.8
+Green Island,GG,15,124.8
+Green Island,GG,5,657.2
+Green Island,GG,5,662
+Green Island,GG,5,685.8
+Green Island,GG,5,663.9
+Green Island,GG,5,733.2
+Green Island,GG,5,662.7
+Green Island,GG,5,673.8
+Green Island,GG,5,693.3
+Green Island,GG,5,693.9
+Green Island,GG,5,699.4
+Green Island,GG,5,695.3
+Green Island,GG,5,666
+Green Island,GG,5,664
+Green Island,GG,5,672.5
+Green Island,GG,5,690.4
+Green Island,GG,5,687.9
+Green Island,GG,5,697.4
+Green Island,GG,5,699.7
+Green Island,GG,5,721.3
+Green Island,GG,5,692.7
+Green Island,GG,5,730.4
+Green Island,GG,5,738.1
+Green Island,GG,5,750.1
+Green Island,GG,5,748.3
+Green Island,GG,5,737.5
+Green Island,GG,5,740.4
+Green Island,GG,5,691.3
+Green Island,GG,5,716
+Green Island,GG,5,745
+Green Island,GG,5,699.2
+Green Island,GG,5,728.7
+Green Island,GG,5,696.8
+Green Island,DBS,30,198.2
+Green Island,DBS,30,115
+Green Island,DBS,30,191.4
+Green Island,DBS,30,201.4
+Green Island,DBS,30,201.6
+Green Island,DBS,30,199.3
+Green Island,DBS,30,199.3
+Green Island,DBS,30,195.1
+Green Island,DBS,30,191.8
+Green Island,DBS,30,187
+Green Island,DBS,30,184.8
+Green Island,DBS,30,184.7
+Green Island,DBS,30,180.2
+Green Island,DBS,30,183.2
+Green Island,DBS,30,175.8
+Green Island,DBS,15,80.9
+Green Island,DBS,15,123.9
+Green Island,DBS,15,114.7
+Green Island,DBS,15,87.7
+Green Island,DBS,15,87.9
+Green Island,DBS,15,110.5
+Green Island,DBS,15,76.9
+Green Island,DBS,15,68.7
+Green Island,DBS,15,62.8
+Green Island,DBS,15,59.7
+Green Island,DBS,15,61.4
+Green Island,DBS,15,65.5
+Green Island,DBS,15,75.5
+Green Island,DBS,15,138.4
+Green Island,DBS,15,166.7
+Green Island,DBS,15,165.8
+Green Island,DBS,15,177.9
+Green Island,DBS,15,176.1
+Green Island,DBS,15,173.6
+Green Island,DBS,15,172.3
+Green Island,DBS,15,175.6
+Green Island,DBS,15,180.4
+Green Island,DBS,15,184.8
+Green Island,DBS,15,160
+Green Island,DBS,15,155.1
+Green Island,DBS,15,148.6
+Green Island,DBS,15,154.2
+Green Island,DBS,15,153.3
+Green Island,DBS,15,144.5
+Green Island,DBS,15,139.6
+Green Island,DBS,15,146.2
+Green Island,DBS,15,122.1
+Green Island,DBS,15,72
+Green Island,DBS,15,60.3
+Green Island,DBS,15,61.9
+Green Island,DBS,15,117.6
+Green Island,DBS,15,129
+Green Island,DBS,15,127.6
+Green Island,DBS,15,123.5
+Green Island,DBS,15,121.2
+Green Island,DBS,15,118.8
+Green Island,DBS,15,117.1
+Green Island,DBS,15,117.5
+Green Island,DBS,15,120
+Green Island,DBS,15,120.1
+Green Island,DBS,15,118.1
+Green Island,DBS,15,108.7
+Green Island,DBS,5,329.4
+Green Island,DBS,5,411.4
+Green Island,DBS,5,599.7
+Green Island,DBS,5,571.8
+Green Island,DBS,5,479.6
+Green Island,DBS,5,420.2
+Green Island,DBS,5,460.5
+Green Island,DBS,5,322.6
+Green Island,DBS,5,332.5
+Green Island,DBS,5,246.6
+Green Island,DBS,5,182.9
+Green Island,DBS,5,202.5
+Green Island,DBS,5,409.3
+Green Island,DBS,5,263.1
+Green Island,DBS,5,508.2
+Green Island,DBS,5,609.1
+Green Island,DBS,5,636.7
+Green Island,DBS,5,634.4
+Green Island,DBS,5,641.6
+Green Island,DBS,5,603.3
+Green Island,DBS,5,643.9
+Green Island,DBS,5,558.2
+Green Island,DBS,5,596.2
+Green Island,DBS,5,602.4
+Green Island,DBS,5,594.6
+Green Island,DBS,5,603.8
+Green Island,DBS,5,582
+Green Island,DBS,5,586
+Green Island,DBS,5,594.1
+Green Island,DBS,5,583.1
+Green Island,DBS,5,593.3
+Green Island,DBS,5,595.8
+Green Island,DBS,5,564.6
+Green Island,DBS,5,589
+Green Island,DBS,5,525.7
+Green Island,DBS,5,547.3
+Green Island,DBS,5,347.7
+Green Island,GW,30,116.1
+Green Island,GW,30,130.7
+Green Island,GW,30,121.6
+Green Island,GW,30,126.2
+Green Island,GW,30,145
+Green Island,GW,30,150.1
+Green Island,GW,30,152.6
+Green Island,GW,30,150.1
+Green Island,GW,30,137.5
+Green Island,GW,30,138.2
+Green Island,GW,30,137.9
+Green Island,GW,30,136
+Green Island,GW,30,135
+Green Island,GW,30,110.3
+Green Island,GW,30,90.4
+Green Island,GW,30,108.3
+Green Island,GW,15,357.4
+Green Island,GW,15,370.8
+Green Island,GW,15,368.7
+Green Island,GW,15,395.8
+Green Island,GW,15,398.8
+Green Island,GW,15,397.9
+Green Island,GW,15,404.6
+Green Island,GW,15,399.1
+Green Island,GW,15,389.5
+Green Island,GW,15,394.6
+Green Island,GW,15,382.2
+Green Island,GW,15,400.1
+Green Island,GW,15,390.4
+Green Island,GW,15,380.6
+Green Island,GW,15,385.4
+Green Island,GW,15,383.3
+Green Island,GW,15,383.8
+Green Island,GW,15,386.8
+Green Island,GW,15,387.3
+Green Island,GW,15,382.1
+Green Island,GW,15,380.2
+Green Island,GW,15,388.2
+Green Island,GW,15,379.9
+Green Island,GW,15,380.1
+Green Island,GW,15,385.9
+Green Island,GW,15,378.7
+Green Island,GW,15,374.4
+Green Island,GW,15,367.9
+Green Island,GW,15,381.7
+Green Island,GW,15,375.8
+Green Island,GW,15,382.2
+Green Island,GW,15,383.7
+Green Island,GW,15,375.3
+Green Island,GW,15,380.4
+Green Island,GW,15,383
+Green Island,GW,15,381.8
+Green Island,GW,15,383.3
+Green Island,GW,15,383.7
+Green Island,GW,15,375.6
+Green Island,GW,15,384.2
+Green Island,GW,15,380.6
+Green Island,GW,15,369.9
+Green Island,GW,15,367.4
+Green Island,GW,15,374.7
+Green Island,GW,15,348.7
+Green Island,GW,5,677.4
+Green Island,GW,5,206.5
+Green Island,GW,5,534.2
+Green Island,GW,5,809.4
+Green Island,GW,5,745.7
+Green Island,GW,5,638.1
+Green Island,GW,5,723.7
+Green Island,GW,5,701.2
+Green Island,GW,5,709.6
+Green Island,GW,5,614.1
+Green Island,GW,5,745.6
+Green Island,GW,5,777.4
+Green Island,GW,5,601
+Green Island,GW,5,192.7
+Green Island,GW,5,720.2
+Green Island,GW,5,841.9
+Green Island,GW,5,436.2
+Green Island,GW,5,364.7
+Green Island,GW,5,552.4
+Green Island,GW,5,337.7
+Green Island,GW,5,602.8
+Green Island,GW,5,241.4
+Green Island,GW,5,225
+Green Island,GW,5,633.5
+Green Island,GW,5,717.4
+Green Island,GW,5,767.8
+Green Island,GW,5,387.4
+Green Island,GW,5,436.3
+Green Island,GW,5,573.4
+Green Island,GW,5,628.7
+Green Island,GW,5,490.1
+Green Island,GW,5,307.4
+Green Island,GW,5,576.4
+Green Island,GW,5,607
+Green Island,GW,5,466.8
+Green Island,GW,5,667.4
+Green Island,GW,5,694
+Green Island,GW,5,533.6
+Green Island,GW,5,178.1
+Green Island,GW,5,270.2
+Green Island,GW,5,677.2
+Green Island,GW,5,686.7
+Green Island,GW,5,627.5
+Green Island,GW,5,664.6
+Green Island,GW,5,628.7
+Green Island,GW,5,638.8
+Green Island,GW,5,643.4
+Green Island,GW,5,634.7
+Green Island,GW,5,617
+Green Island,GW,5,622
+Green Island,GW,5,652.5
+Green Island,GW,5,629.7
+Green Island,GW,5,598.5
+Xiaoliuqiu,DF,30,145.2
+Xiaoliuqiu,DF,30,149.5
+Xiaoliuqiu,DF,30,155.6
+Xiaoliuqiu,DF,30,157.7
+Xiaoliuqiu,DF,30,155
+Xiaoliuqiu,DF,30,162.5
+Xiaoliuqiu,DF,30,158.8
+Xiaoliuqiu,DF,30,159.2
+Xiaoliuqiu,DF,30,157.8
+Xiaoliuqiu,DF,30,156.6
+Xiaoliuqiu,DF,30,159.6
+Xiaoliuqiu,DF,30,159.1
+Xiaoliuqiu,DF,30,158.1
+Xiaoliuqiu,DF,30,153.5
+Xiaoliuqiu,DF,30,152.3
+Xiaoliuqiu,DF,30,150.5
+Xiaoliuqiu,DF,30,147.6
+Xiaoliuqiu,DF,30,145.4
+Xiaoliuqiu,DF,30,147.4
+Xiaoliuqiu,DF,30,148.7
+Xiaoliuqiu,DF,30,150.3
+Xiaoliuqiu,DF,30,149.5
+Xiaoliuqiu,DF,30,146.9
+Xiaoliuqiu,DF,30,147.7
+Xiaoliuqiu,DF,30,147.7
+Xiaoliuqiu,DF,30,135.3
+Xiaoliuqiu,DF,15,215.2
+Xiaoliuqiu,DF,15,245.1
+Xiaoliuqiu,DF,15,246
+Xiaoliuqiu,DF,15,233.4
+Xiaoliuqiu,DF,15,220.2
+Xiaoliuqiu,DF,15,225.2
+Xiaoliuqiu,DF,15,220.7
+Xiaoliuqiu,DF,15,218.2
+Xiaoliuqiu,DF,15,211.7
+Xiaoliuqiu,DF,15,202.5
+Xiaoliuqiu,DF,15,193.3
+Xiaoliuqiu,DF,15,191.2
+Xiaoliuqiu,DF,15,186.9
+Xiaoliuqiu,DF,15,186.1
+Xiaoliuqiu,DF,15,191.3
+Xiaoliuqiu,DF,15,198.9
+Xiaoliuqiu,DF,15,206.5
+Xiaoliuqiu,DF,15,207.6
+Xiaoliuqiu,DF,15,206.4
+Xiaoliuqiu,DF,15,202.8
+Xiaoliuqiu,DF,15,191.4
+Xiaoliuqiu,DF,15,190.6
+Xiaoliuqiu,DF,15,198.2
+Xiaoliuqiu,DF,15,216.1
+Xiaoliuqiu,DF,15,260.6
+Xiaoliuqiu,DF,15,281.7
+Xiaoliuqiu,DF,15,275.9
+Xiaoliuqiu,DF,15,313.4
+Xiaoliuqiu,DF,15,304.8
+Xiaoliuqiu,DF,15,329.9
+Xiaoliuqiu,DF,15,299.6
+Xiaoliuqiu,DF,15,233.7
+Xiaoliuqiu,DF,15,217
+Xiaoliuqiu,DF,15,218.4
+Xiaoliuqiu,DF,15,230.6
+Xiaoliuqiu,DF,15,206.5
+Xiaoliuqiu,DF,15,201.9
+Xiaoliuqiu,DF,15,203.2
+Xiaoliuqiu,DF,15,205.1
+Xiaoliuqiu,DF,15,201.9
+Xiaoliuqiu,DF,15,199.8
+Xiaoliuqiu,DF,15,197.4
+Xiaoliuqiu,DF,15,197
+Xiaoliuqiu,DF,15,181.1
+Xiaoliuqiu,DF,15,171.7
+Xiaoliuqiu,DF,5,524.7
+Xiaoliuqiu,DF,5,443.7
+Xiaoliuqiu,DF,5,498.1
+Xiaoliuqiu,DF,5,537.3
+Xiaoliuqiu,DF,5,576.7
+Xiaoliuqiu,DF,5,642.5
+Xiaoliuqiu,DF,5,611.6
+Xiaoliuqiu,DF,5,615.9
+Xiaoliuqiu,DF,5,617.4
+Xiaoliuqiu,DF,5,615.6
+Xiaoliuqiu,DF,5,611.4
+Xiaoliuqiu,DF,5,630.2
+Xiaoliuqiu,DF,5,598.1
+Xiaoliuqiu,DF,5,610.9
+Xiaoliuqiu,DF,5,612.7
+Xiaoliuqiu,DF,5,597.8
+Xiaoliuqiu,DF,5,573.7
+Xiaoliuqiu,DF,5,577.3
+Xiaoliuqiu,DF,5,605.9
+Xiaoliuqiu,DF,5,603
+Xiaoliuqiu,DF,5,579.2
+Xiaoliuqiu,DF,5,565.8
+Xiaoliuqiu,DF,5,570
+Xiaoliuqiu,DF,5,550.1
+Xiaoliuqiu,DF,5,580.4
+Xiaoliuqiu,DF,5,562.6
+Xiaoliuqiu,DF,5,567.7
+Xiaoliuqiu,DF,5,580.4
+Xiaoliuqiu,DF,5,585.9
+Xiaoliuqiu,DF,5,558.2
+Xiaoliuqiu,DF,5,576.5
+Xiaoliuqiu,DF,5,542.9
+Xiaoliuqiu,DF,5,559.5
+Xiaoliuqiu,DF,5,558.9
+Xiaoliuqiu,VN,30,142.1
+Xiaoliuqiu,VN,30,142.9
+Xiaoliuqiu,VN,30,141.3
+Xiaoliuqiu,VN,30,140.6
+Xiaoliuqiu,VN,30,140
+Xiaoliuqiu,VN,30,142
+Xiaoliuqiu,VN,30,141.6
+Xiaoliuqiu,VN,30,143
+Xiaoliuqiu,VN,30,144
+Xiaoliuqiu,VN,30,144.5
+Xiaoliuqiu,VN,30,144.1
+Xiaoliuqiu,VN,30,144.1
+Xiaoliuqiu,VN,30,143.1
+Xiaoliuqiu,VN,15,195.6
+Xiaoliuqiu,VN,15,223.5
+Xiaoliuqiu,VN,15,223.4
+Xiaoliuqiu,VN,15,218.8
+Xiaoliuqiu,VN,15,195.6
+Xiaoliuqiu,VN,15,180.3
+Xiaoliuqiu,VN,15,178.5
+Xiaoliuqiu,VN,15,176.4
+Xiaoliuqiu,VN,15,168.5
+Xiaoliuqiu,VN,15,163.8
+Xiaoliuqiu,VN,15,160
+Xiaoliuqiu,VN,15,157
+Xiaoliuqiu,VN,15,155.1
+Xiaoliuqiu,VN,15,154.4
+Xiaoliuqiu,VN,15,152
+Xiaoliuqiu,VN,15,150.3
+Xiaoliuqiu,VN,15,148.1
+Xiaoliuqiu,VN,15,146.1
+Xiaoliuqiu,VN,15,144.3
+Xiaoliuqiu,VN,15,141
+Xiaoliuqiu,VN,15,137.7
+Xiaoliuqiu,VN,15,133.8
+Xiaoliuqiu,VN,15,129.3
+Xiaoliuqiu,VN,15,124.9
+Xiaoliuqiu,VN,15,120.2
+Xiaoliuqiu,VN,15,117
+Xiaoliuqiu,VN,15,112.4
+Xiaoliuqiu,VN,15,107.6
+Xiaoliuqiu,VN,15,105.3
+Xiaoliuqiu,VN,15,102.3
+Xiaoliuqiu,VN,15,96.8
+Xiaoliuqiu,VN,15,91.7
+Xiaoliuqiu,VN,15,89
+Xiaoliuqiu,VN,15,87.7
+Xiaoliuqiu,VN,15,86.7
+Xiaoliuqiu,VN,15,85.3
+Xiaoliuqiu,VN,15,84.4
+Xiaoliuqiu,VN,15,84.6
+Xiaoliuqiu,VN,15,85.6
+Xiaoliuqiu,VN,15,86.6
+Xiaoliuqiu,VN,5,700.9
+Xiaoliuqiu,VN,5,743.7
+Xiaoliuqiu,VN,5,710.2
+Xiaoliuqiu,VN,5,760.3
+Xiaoliuqiu,VN,5,780.5
+Xiaoliuqiu,VN,5,785.4
+Xiaoliuqiu,VN,5,788.3
+Xiaoliuqiu,VN,5,834.2
+Xiaoliuqiu,VN,5,751.1
+Xiaoliuqiu,VN,5,703.7
+Xiaoliuqiu,VN,5,689.7
+Xiaoliuqiu,VN,5,697.3
+Xiaoliuqiu,VN,5,644.5
+Xiaoliuqiu,VN,5,724
+Xiaoliuqiu,VN,5,821.8
+Xiaoliuqiu,VN,5,816.7
+Xiaoliuqiu,VN,5,733.3
+Xiaoliuqiu,VN,5,897.9
+Xiaoliuqiu,VN,5,823.3
+Xiaoliuqiu,VN,5,807.9
+Xiaoliuqiu,VN,5,554.9
+Xiaoliuqiu,VN,5,551
+Xiaoliuqiu,VN,5,614.9
+Xiaoliuqiu,VN,5,868.2
+Xiaoliuqiu,VN,5,876.1
+Xiaoliuqiu,VN,5,758.5
+Xiaoliuqiu,VN,5,423.2
+Xiaoliuqiu,VN,5,646.2
+Xiaoliuqiu,VN,5,958.8
+Xiaoliuqiu,VN,5,587.8
+Xiaoliuqiu,VN,5,560.2
+Xiaoliuqiu,VN,5,427.2
+Xiaoliuqiu,VN,5,544.2
+Xiaoliuqiu,VN,5,246
+Xiaoliuqiu,VN,5,222.5
+Xiaoliuqiu,VN,5,232.5
+Xiaoliuqiu,VN,5,260.4
+Xiaoliuqiu,LC,30,199.4
+Xiaoliuqiu,LC,30,220.8
+Xiaoliuqiu,LC,30,239.2
+Xiaoliuqiu,LC,30,241
+Xiaoliuqiu,LC,30,237.6
+Xiaoliuqiu,LC,30,63.9
+Xiaoliuqiu,LC,30,126.3
+Xiaoliuqiu,LC,30,63.5
+Xiaoliuqiu,LC,30,61.4
+Xiaoliuqiu,LC,30,63.8
+Xiaoliuqiu,LC,30,110.8
+Xiaoliuqiu,LC,30,205.2
+Xiaoliuqiu,LC,30,150.7
+Xiaoliuqiu,LC,30,42.8
+Xiaoliuqiu,LC,30,44.2
+Xiaoliuqiu,LC,30,65.1
+Xiaoliuqiu,LC,30,63.4
+Xiaoliuqiu,LC,30,103.8
+Xiaoliuqiu,LC,30,115.3
+Xiaoliuqiu,LC,15,59.9
+Xiaoliuqiu,LC,15,62.2
+Xiaoliuqiu,LC,15,66.5
+Xiaoliuqiu,LC,15,64.6
+Xiaoliuqiu,LC,15,68.2
+Xiaoliuqiu,LC,15,69.3
+Xiaoliuqiu,LC,15,68.5
+Xiaoliuqiu,LC,15,65.8
+Xiaoliuqiu,LC,15,64.4
+Xiaoliuqiu,LC,15,63.3
+Xiaoliuqiu,LC,15,63.3
+Xiaoliuqiu,LC,15,64
+Xiaoliuqiu,LC,15,63.4
+Xiaoliuqiu,LC,15,62.1
+Xiaoliuqiu,LC,15,60.8
+Xiaoliuqiu,LC,15,58.9
+Xiaoliuqiu,LC,15,58.2
+Xiaoliuqiu,LC,15,57.7
+Xiaoliuqiu,LC,15,57.3
+Xiaoliuqiu,LC,15,56.4
+Xiaoliuqiu,LC,15,56.5
+Xiaoliuqiu,LC,15,56.8
+Xiaoliuqiu,LC,15,57.1
+Xiaoliuqiu,LC,15,56.6
+Xiaoliuqiu,LC,15,55.8
+Xiaoliuqiu,LC,15,55.1
+Xiaoliuqiu,LC,15,54
+Xiaoliuqiu,LC,15,53
+Xiaoliuqiu,LC,15,51.8
+Xiaoliuqiu,LC,15,47
+Xiaoliuqiu,LC,15,45.7
+Xiaoliuqiu,LC,15,47.8
+Xiaoliuqiu,LC,15,51.6
+Xiaoliuqiu,LC,15,51.3
+Xiaoliuqiu,LC,15,49.4
+Xiaoliuqiu,LC,15,48.3
+Xiaoliuqiu,LC,15,47.7
+Xiaoliuqiu,LC,15,47.3
+Xiaoliuqiu,LC,15,48.2
+Xiaoliuqiu,LC,15,50.1
+Xiaoliuqiu,LC,15,50.7
+Xiaoliuqiu,LC,15,50.2
+Xiaoliuqiu,LC,5,497.7
+Xiaoliuqiu,LC,5,548.5
+Xiaoliuqiu,LC,5,544.2
+Xiaoliuqiu,LC,5,537.9
+Xiaoliuqiu,LC,5,526.5
+Xiaoliuqiu,LC,5,537.8
+Xiaoliuqiu,LC,5,540.1
+Xiaoliuqiu,LC,5,544.6
+Xiaoliuqiu,LC,5,564.2
+Xiaoliuqiu,LC,5,545.1
+Xiaoliuqiu,LC,5,558.4
+Xiaoliuqiu,LC,5,541.4
+Xiaoliuqiu,LC,5,588.4
+Xiaoliuqiu,LC,5,579.6
+Xiaoliuqiu,LC,5,580
+Xiaoliuqiu,LC,5,588.3
+Xiaoliuqiu,LC,5,590.3
+Xiaoliuqiu,LC,5,580.7
+Xiaoliuqiu,LC,5,559.2
+Xiaoliuqiu,LC,5,567
+Xiaoliuqiu,LC,5,599
+Xiaoliuqiu,LC,5,420.4
+Xiaoliuqiu,LC,5,539.4
+Xiaoliuqiu,LC,5,601.1
+Xiaoliuqiu,LC,5,559.5
+Xiaoliuqiu,LC,5,582.3
+Xiaoliuqiu,LC,5,595.7
+Xiaoliuqiu,LC,5,575.8
+Xiaoliuqiu,LC,5,589.5
+Xiaoliuqiu,LC,5,592.9
+Xiaoliuqiu,LC,5,605
+Xiaoliuqiu,LC,5,604.3
+Xiaoliuqiu,LC,5,566.7
